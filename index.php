@@ -27,11 +27,8 @@
         </button>
     </dialog>
 
-<<<<<<< HEAD
     <p>POTATOES AAAAAAAAAAA</p>
-=======
     <p>FORD MUSTANG CAWWWWWWWW</p>
->>>>>>> main
 </body>
 
 </html>
